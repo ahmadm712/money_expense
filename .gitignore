@@ -43,3 +43,23 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Hive database files
+*.hive
+
+# VS Code
+.vscode/settings.json
+.vscode/launch.json
+!.vscode/tasks.json
+!.vscode/extensions.json
+
+# Gradle
+.gradle/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Temporary files
+*.tmp
+*.temp

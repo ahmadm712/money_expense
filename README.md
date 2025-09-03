@@ -2,6 +2,11 @@
 
 Aplikasi pelacak pengeluaran pribadi yang dibangun dengan Flutter. Aplikasi ini memungkinkan pengguna untuk mencatat, melihat, dan menganalisis pengeluaran harian mereka dengan berbagai kategori.
 
+## 📥 Download
+
+[![Download APK](https://img.shields.io/badge/Download-APK-teal?logo=android&logoColor=white)](money_expense.apk)
+
+
 ## Fitur Utama
 
 - ✅ Catat pengeluaran harian dengan kategori
